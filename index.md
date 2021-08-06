@@ -1,5 +1,5 @@
 
-I am a academic, 
+I am a, 
 
 ## Current Interests and Projects:
 
