@@ -1,10 +1,5 @@
 ---
 layout: page
-excerpt: "About Me..."
----
-
----
-layout: page
 title: Presentations
 ---
 
