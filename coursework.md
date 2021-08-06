@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: coursework
+excerpt: "Recent Presentations"
 ---
 
-Text for your page goes here.
-## Test
