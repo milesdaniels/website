@@ -1,3 +1,7 @@
+
 # Site navigation links
-- title: coursework
-  url: /coursework/
+- title: Home
+  url: /
+
+- title: Presentations
+  url: /presentations/
